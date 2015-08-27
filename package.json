@@ -1,6 +1,6 @@
 {
   "name": "dot-ify",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "make dot templates 'requireable' when using browserify",
   "main": "index.js",
   "scripts": {
