@@ -1,0 +1,7 @@
+function demoOfATemplate(it
+/**/) {
+var out='<div>\n  <p>A simple dot template</p>\n</div>';return out;
+}
+content <div>
+  <p>A simple dot template</p>
+</div>
